@@ -1,6 +1,6 @@
 ## Getting started
 
-You can view a live demo over at http://maxmax.github.io/authapp
+You can view a live demo over at https://maxmax.github.io/authapp/index.html
 
 To get the frontend running locally:
 
